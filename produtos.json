@@ -1,0 +1,804 @@
+{
+  "Cup Noodles": [
+    {
+      "nome": "Cup Noodles Cheddar",
+      "descricao": "Cup Noodles Cheddar para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_cheddar.png"
+    },
+    {
+      "nome": "Cup Noddles Bolonhesa",
+      "descricao": "Cup Noddles Bolonhesa para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_queijo.png"
+    },
+    {
+      "nome": "Cup Noodles Seafood",
+      "descricao": "Cup Noodles Seafood para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_seafood.png"
+    },
+    {
+      "nome": "Cup Noodles Costela",
+      "descricao": "Cup Noodles Costela para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_costela.png"
+    },
+    {
+      "nome": "Cup Noodles Feijoada",
+      "descricao": "Cup Noodles Feijoada para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_feijoada.png"
+    },
+    {
+      "nome": "Cup Noddles Picante",
+      "descricao": "Cup Noddles Picante para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_costela_2.jpg"
+    },
+    {
+      "nome": "Cup Noodles Carne",
+      "descricao": "Cup Noodles Carne para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_carne.jpg"
+    },
+    {
+      "nome": "Cup Noodles Teriyaki",
+      "descricao": "Cup Noodles Teriyaki para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_teriyaki.png"
+    },
+    {
+      "nome": "Cup Noodles Curry",
+      "descricao": "Cup Noodles Curry para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_curry.png"
+    },
+    {
+      "nome": "Cup Noodles Yakissoba",
+      "descricao": "Cup Noodles Yakissoba para uma refeição prática e rápida.",
+      "preco": 8.0,
+      "imagem": "cup_noodles_yakissoba.png"
+    }
+  ],
+  "Doces": [
+    {
+      "nome": "Pão de Mel",
+      "descricao": "Pão de Mel para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "bolinho_chocolate_recheado.png"
+    },
+    {
+      "nome": "Traquinas Chocolate",
+      "descricao": "Traquinas Chocolate para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trakinas_chocolate_126g.jpg"
+    },
+    {
+      "nome": "Traquinas Morango",
+      "descricao": "Traquinas Morango para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trakinas_chocolate.jpg"
+    },
+    {
+      "nome": "Bolo Chocolate",
+      "descricao": "Bolo Chocolate para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "bolo_chocolate.png"
+    },
+    {
+      "nome": "Trento Maracujá",
+      "descricao": "Trento Maracujá para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_branco.png"
+    },
+    {
+      "nome": "Trento Pistache",
+      "descricao": "Trento Pistache para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_morango.jpg"
+    },
+    {
+      "nome": "Trento Avelã",
+      "descricao": "Trento Avelã para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_chocolate_1.jpg"
+    },
+    {
+      "nome": "Trento Morango",
+      "descricao": "Trento Morango para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_morango_2.png"
+    },
+    {
+      "nome": "Torrone",
+      "descricao": "Torrone para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "nougat_amendoim.png"
+    },
+    {
+      "nome": "Doce de Abóbora",
+      "descricao": "Doce de abóbora para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "biscoito_coracao.png"
+    },
+    {
+      "nome": "Ouro Branco",
+      "descricao": "Ouro Branco para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "ouro_branco.png"
+    },
+    {
+      "nome": "Suspiro",
+      "descricao": "Suspiro para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "suspiro_chocolate_1.png"
+    },
+    {
+      "nome": "Sonho De Valsa",
+      "descricao": "Sonho De Valsa para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "sonho_de_valsa.png"
+    },
+    {
+      "nome": "Trento Branco",
+      "descricao": "Trento Branco para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_branco_2.png"
+    },
+    {
+      "nome": "Trento Creme",
+      "descricao": "Trento Creme para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_creme.png"
+    },
+    {
+      "nome": "Trento Duo",
+      "descricao": "Trento Duo para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_duo.png"
+    },
+    {
+      "nome": "Trento Leite",
+      "descricao": "Trento Leite para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_leite.png"
+    },
+    {
+      "nome": "Trento Limao",
+      "descricao": "Trento Limao para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_limao.png"
+    },
+    {
+      "nome": "Trento Trufa Chocolate",
+      "descricao": "Trento Trufa Chocolate para matar a vontade de um doce.",
+      "preco": 4.5,
+      "imagem": "trento_trufa_chocolate.png"
+    },
+    {
+      "nome": "Doce De Leite",
+      "descricao": "Doce De Leite para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "doce_de_leite.png"
+    },
+    {
+      "nome": "Doce De Copo Banana",
+      "descricao": "Doce De Copo Banana para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "doce_de_copo_banana.png"
+    },
+    {
+      "nome": "Doce De Mocoto",
+      "descricao": "Doce De Mocoto para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "doce_de_mocoto.png"
+    },
+    {
+      "nome": "Maria Mole",
+      "descricao": "Maria Mole para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "maria_mole.png"
+    },
+    {
+      "nome": "Paçoca Rolha",
+      "descricao": "Paçoca Rolha para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pacoca_rolha.png"
+    },
+    {
+      "nome": "Pacoquita",
+      "descricao": "Pacoquita para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pacoquita.png"
+    },
+    {
+      "nome": "Pe De Moleque",
+      "descricao": "Pe De Moleque para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pe_de_moleque.png"
+    },
+    {
+      "nome": "Pe de Moça",
+      "descricao": "Pe de Moça para matar a vontade de um doce.",
+      "preco": 4.0,
+      "imagem": "pe_de_moleque_2.png"
+    },
+    {
+      "nome": "Bala De Gelatina Morango",
+      "descricao": "Doce de geleia da água",
+      "preco": 2.5,
+      "imagem": "bala_de_gelatina_morango.png"
+    }
+  ],
+  "Doces e Pipocas": [
+    {
+      "nome": "Pipoca Bacon",
+      "descricao": "Pipoca Bacon para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pipoca_bacon.png"
+    },
+    {
+      "nome": "Pipoca Cinema",
+      "descricao": "Pipoca Cinema para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pipoca_cinema.png"
+    },
+    {
+      "nome": "Pipoca Manteiga",
+      "descricao": "Pipoca Manteiga para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pipoca_manteiga.png"
+    },
+    {
+      "nome": "Pipoca Natural",
+      "descricao": "Pipoca Natural para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pipoca_natural.png"
+    },
+    {
+      "nome": "Pipoca Pizza",
+      "descricao": "Pipoca Pizza para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pipoca_pizza.png"
+    },
+    {
+      "nome": "Pipoca Queijo",
+      "descricao": "Pipoca Queijo para um lanche doce e descontraído.",
+      "preco": 4.0,
+      "imagem": "pipoca_queijo.png"
+    }
+  ],
+  "Refeições": [
+    {
+      "nome": "Bife Acebolado",
+      "descricao": "Bife acebolado servido como opção de refeição da cantina.",
+      "preco": 20.0,
+      "imagem": "bife-acebolado.png",
+      "imediato": true
+    },
+    {
+      "nome": "Caldo",
+      "descricao": "Caldo tradicional para aquecer o intervalo.",
+      "preco": 8.0,
+      "imagem": "caldo-tradicional.png",
+      "imediato": true
+    },
+    {
+      "nome": "Caldo de Abóbora",
+      "descricao": "Caldo cremoso de abóbora para o intervalo.",
+      "preco": 8.0,
+      "imagem": "caldo-de-abobora.png",
+      "imediato": true
+    },
+    {
+      "nome": "Caldo de Feijão",
+      "descricao": "Caldo saboroso de feijão para o intervalo.",
+      "preco": 8.0,
+      "imagem": "caldo-de-feijao.png",
+      "imediato": true
+    },
+    {
+      "nome": "Caldo de Mandioca",
+      "descricao": "Caldo cremoso de mandioca para o intervalo.",
+      "preco": 8.0,
+      "imagem": "caldo-de-mandioca.png",
+      "imediato": true
+    },
+    {
+      "nome": "Caldo Verde",
+      "descricao": "Caldo verde preparado para uma refeição quente e prática.",
+      "preco": 8.0,
+      "imagem": "caldo-verde.png",
+      "imediato": true
+    },
+    {
+      "nome": "Carne Cozida",
+      "descricao": "Carne cozida como opção de refeição da cantina.",
+      "preco": 20.0,
+      "imagem": "carne-cozida.png",
+      "imediato": true
+    },
+    {
+      "nome": "Churrasco",
+      "descricao": "Churrasco preparado para uma refeição completa.",
+      "preco": 20.0,
+      "imagem": "churrasco.png",
+      "imediato": true
+    },
+    {
+      "nome": "Espeto",
+      "descricao": "Espeto preparado na cantina para um lanche reforçado.",
+      "preco": 9.0,
+      "imagem": "espeto.png",
+      "imediato": true
+    },
+    {
+      "nome": "Espeto de Carne",
+      "descricao": "Espeto de carne preparado para o intervalo.",
+      "preco": 9.0,
+      "imagem": "espeto-de-carne.png",
+      "imediato": true
+    },
+    {
+      "nome": "Espeto de Coração",
+      "descricao": "Espeto de coração preparado para o intervalo.",
+      "preco": 9.0,
+      "imagem": "espeto-de-coracao.png",
+      "imediato": true
+    },
+    {
+      "nome": "Espeto de Medalhão",
+      "descricao": "Espeto de medalhão preparado para o intervalo.",
+      "preco": 9.0,
+      "imagem": "espeto-de-medalhao.png",
+      "imediato": true
+    },
+    {
+      "nome": "Frango Empanado com Fritas",
+      "descricao": "Frango empanado com fritas como opção de refeição.",
+      "preco": 20.0,
+      "imagem": "frango-empanado-com-fritas.png",
+      "imediato": true
+    },
+    {
+      "nome": "Frango Grelhado",
+      "descricao": "Frango grelhado como opção de refeição da cantina.",
+      "preco": 20.0,
+      "imagem": "frango-grelhado.png",
+      "imediato": true
+    },
+    {
+      "nome": "Strogonoff de Carne",
+      "descricao": "Strogonoff de carne como opção de refeição da cantina.",
+      "preco": 20.0,
+      "imagem": "strogonoff-de-carne.png",
+      "imediato": true
+    },
+    {
+      "nome": "Strogonoff de Frango",
+      "descricao": "Strogonoff de frango como opção de refeição da cantina.",
+      "preco": 20.0,
+      "imagem": "strogonoff-de-frango.png",
+      "imediato": true
+    }
+  ],
+  "Bebidas": [
+    {
+      "nome": "Monster Ultra",
+      "descricao": "Monster Ultra gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_ultra.png"
+    },
+    {
+      "nome": "Monster Energy",
+      "descricao": "Monster Energy gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_energy.png"
+    },
+    {
+      "nome": "Agua Mineral",
+      "descricao": "Agua Mineral gelado para acompanhar seu pedido com praticidade.",
+      "preco": 3.5,
+      "imagem": "agua_mineral_500ml_1.png"
+    },
+    {
+      "nome": "Coca Cola Lata",
+      "descricao": "Coca Cola Lata gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "coca_cola_lata.png"
+    },
+    {
+      "nome": "Monster Dragon Ice Tea Lemon",
+      "descricao": "Monster Dragon Ice Tea Lemon gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_dragon_ice_tea_lemon.png"
+    },
+    {
+      "nome": "Guarana Antarctica Zero",
+      "descricao": "Guarana Antarctica Zero gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "guarana_antarctica_zero.jpg"
+    },
+    {
+      "nome": "Pipeline Punch",
+      "descricao": "Pipeline Punch gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_juice_1.jpg"
+    },
+    {
+      "nome": "Monster Melancia",
+      "descricao": "Monster Melancia gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_juice_2.jpg"
+    },
+    {
+      "nome": "Fanta Laranja",
+      "descricao": "Fanta Laranja gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "fanta_laranja.jpg"
+    },
+    {
+      "nome": "Pacific Punch",
+      "descricao": "Pacific Punch gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_juice_3.png"
+    },
+    {
+      "nome": "Monster Ultra Violet",
+      "descricao": "Monster Ultra Violet gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_energy_roxo.png"
+    },
+    {
+      "nome": "Monster Energy Zero",
+      "descricao": "Monster Energy Zero gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_energy_zero.png"
+    },
+    {
+      "nome": "Monster Absolute Zero",
+      "descricao": "Monster Absolute Zero gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_energy_ultra_azul.png"
+    },
+    {
+      "nome": "Mango Loco",
+      "descricao": "Mango Loco gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_juice_mango.png"
+    },
+    {
+      "nome": "Monster Rio Punch",
+      "descricao": "Monster Rio Punch gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_juice_verde.png"
+    },
+    {
+      "nome": "Monster Ultra Fiesta Mango",
+      "descricao": "Monster Ultra Fiesta Mango gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_energy_aqua.png"
+    },
+    {
+      "nome": "Strawberry Dreams",
+      "descricao": "Strawberry Dreams gelado para acompanhar seu pedido com praticidade.",
+      "preco": 6.0,
+      "imagem": "monster_energy_ultra_rosa.png"
+    },
+    {
+      "nome": "Coca Cola Zero Lata",
+      "descricao": "Coca Cola Zero Lata gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "coca_cola_zero_lata.png"
+    },
+    {
+      "nome": "Fanta Uva",
+      "descricao": "Fanta Uva gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "fanta_uva.png"
+    },
+    {
+      "nome": "Fanta Maracujá",
+      "descricao": "Fanta Maracujá gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "fanta_laranja_2.png"
+    },
+    {
+      "nome": "Sprite",
+      "descricao": "Sprite gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "sprite_limao.png"
+    },
+    {
+      "nome": "Sukita Uva",
+      "descricao": "Sukita Uva gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "sukita_uva.png"
+    },
+    {
+      "nome": "Sukita Laranja",
+      "descricao": "Sukita Laranja gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "sukita_laranja.png"
+    },
+    {
+      "nome": "Coca Cola Caçula",
+      "descricao": "Coca Cola Caçula gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "coca_cola_pet.png"
+    },
+    {
+      "nome": "Coca Cola Zero Caçula",
+      "descricao": "Coca Cola Zero Caçula gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "coca_cola_zero_pet.png"
+    },
+    {
+      "nome": "Guarana Antarctica",
+      "descricao": "Guarana Antarctica gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "guarana_antarctica.png"
+    },
+    {
+      "nome": "Suco Natural",
+      "descricao": "Suco Natural gelado para acompanhar seu pedido com praticidade.",
+      "preco": 5.0,
+      "imagem": "suco_natural_laranja.png"
+    }
+  ],
+  "Salgados e Lanches": [
+    {
+      "nome": "Sanduiche Misto",
+      "descricao": "Sanduiche Misto preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "sanduiche_misto.png"
+    },
+    {
+      "nome": "Pão De Queijo",
+      "descricao": "Pão De Queijo preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "pao_de_queijo.jpg"
+    },
+    {
+      "nome": "Coxinha",
+      "descricao": "Coxinha preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "coxinha.png"
+    },
+    {
+      "nome": "Pão De Batata",
+      "descricao": "Pão De Batata preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "pao_de_batata.png"
+    },
+    {
+      "nome": "Enroladinho De Salsicha",
+      "descricao": "Enroladinho De Salsicha preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "enroladinho_de_salsicha.png"
+    },
+    {
+      "nome": "Esfiha De Carne",
+      "descricao": "Esfiha De Carne preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "esfiha_de_carne.png"
+    },
+    {
+      "nome": "Croissant",
+      "descricao": "Croissant preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "croissant.jpg"
+    },
+    {
+      "nome": "Pão De Batata Calabresa",
+      "descricao": "Pão De Batata Calabresa preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "pao_de_batata_calabresa.png"
+    },
+    {
+      "nome": "Pizza Enrolada",
+      "descricao": "Pizza Enrolada preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "pizza_enrolada.png"
+    },
+    {
+      "nome": "Risole",
+      "descricao": "Risole preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "risole.png"
+    },
+    {
+      "nome": "Kibe De Carne",
+      "descricao": "Kibe De Carne preparado para um lanche rápido durante o intervalo.",
+      "preco": 6.5,
+      "imagem": "kibe_de_carne.png"
+    }
+  ],
+  "Sorvetes": [
+    {
+      "nome": "Sorvete Cremosinho Açaí com Banana",
+      "descricao": "Sorvete Cremosinho Açaí com Banana cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_coco_banana.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Coco",
+      "descricao": "Sorvete Cremosinho Coco cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_coco.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Frutas Tropicais",
+      "descricao": "Sorvete Cremosinho Frutas Tropicais cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_frutas_tropicais.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Babaloo",
+      "descricao": "Sorvete Cremosinho Babaloo cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_babaloo.jpg"
+    },
+    {
+      "nome": "Sorvete Cremosinho Kiwi",
+      "descricao": "Sorvete Cremosinho Kiwi cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_kiwi.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Leite Condensado",
+      "descricao": "Sorvete Cremosinho Leite Condensado cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_leite_condensado.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Manga",
+      "descricao": "Sorvete Cremosinho Manga cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_manga.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Maracuja",
+      "descricao": "Sorvete Cremosinho Maracuja cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_maracuja.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Morango",
+      "descricao": "Sorvete Cremosinho Morango cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_morango_1.png"
+    },
+    {
+      "nome": "Sorvete Cremosinho Uva",
+      "descricao": "Sorvete Cremosinho Uva cremoso para refrescar o intervalo.",
+      "preco": 4.5,
+      "imagem": "sorvete_cremosinho_uva.png"
+    }
+  ],
+  "Balas e Chicletes": [
+    {
+      "nome": "Bala Yogurte Morango",
+      "descricao": "Bala Yogurte Morango para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "bala_yogurte_morango.jpg"
+    },
+    {
+      "nome": "Halls Cereja",
+      "descricao": "Halls Cereja para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_cereja.png"
+    },
+    {
+      "nome": "Halls Melancia",
+      "descricao": "Halls Melancia para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_melancia.png"
+    },
+    {
+      "nome": "Halls Menta",
+      "descricao": "Halls Menta para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_menta.png"
+    },
+    {
+      "nome": "Halls Menta Prata",
+      "descricao": "Halls Menta Prata para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_menta_prata.png"
+    },
+    {
+      "nome": "Halls Morango",
+      "descricao": "Halls Morango para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_morango.png"
+    },
+    {
+      "nome": "Halls Preto",
+      "descricao": "Halls Preto para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_preto.png"
+    },
+    {
+      "nome": "Halls Uva Verde",
+      "descricao": "Halls Uva Verde para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "halls_uva_verde.png"
+    },
+    {
+      "nome": "Trident Melancia",
+      "descricao": "Trident Melancia para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_melancia.jpg"
+    },
+    {
+      "nome": "Bubbaloo Uva",
+      "descricao": "Bubbaloo Uva para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "bubbaloo_azul.jpg"
+    },
+    {
+      "nome": "Bubbaloo Hortelã",
+      "descricao": "Bubbaloo Hortelã para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "bubbaloo_azul_2.jpg"
+    },
+    {
+      "nome": "Bubbaloo Morango",
+      "descricao": "Bubbaloo Morango para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "bubbaloo_cereja.jpg"
+    },
+    {
+      "nome": "Bubbaloo Tutti Frutti",
+      "descricao": "Bubbaloo Tutti Frutti para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "bubbaloo_tutti_frutti.jpg"
+    },
+    {
+      "nome": "Trident Canela",
+      "descricao": "Trident Canela para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_canela.png"
+    },
+    {
+      "nome": "Trident Cereja",
+      "descricao": "Trident Cereja para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_cereja.png"
+    },
+    {
+      "nome": "Trident Fresh",
+      "descricao": "Trident Fresh para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_fresh.png"
+    },
+    {
+      "nome": "Trident Hortela",
+      "descricao": "Trident Hortela para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_hortela.png"
+    },
+    {
+      "nome": "Trident Menta",
+      "descricao": "Trident Menta para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_menta.png"
+    },
+    {
+      "nome": "Trident Tutti Frutti",
+      "descricao": "Trident Tutti Frutti para um toque doce e refrescante no seu intervalo.",
+      "preco": 2.5,
+      "imagem": "trident_tutti_frutti.png"
+    }
+  ],
+  "Outros": [
+    {
+      "nome": "Canetas Bic",
+      "descricao": "Canetas Bic disponível na Cantina do IFSP CJO.",
+      "preco": 5.0,
+      "imagem": "canetas_bic.png"
+    }
+  ]
+}
