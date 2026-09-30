@@ -1,0 +1,18 @@
+[
+  {
+    "id": "20260929_0003",
+    "numero": 3,
+    "nome": "Bruno",
+    "criada_em": "2026-09-29T17:31:44.437179",
+    "timestamp": 1790713904.437179,
+    "total": 5.0,
+    "itens": [
+      {
+        "nome": "Canetas Bic",
+        "quantidade": 1,
+        "preco": 5.0,
+        "imediato": false
+      }
+    ]
+  }
+]
